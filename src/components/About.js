@@ -15,7 +15,7 @@ return (<div>
         <div className="container py-5 paragraph">
         <h6><strong> My Github Account :- </strong> 
         <a href="https://github.com/answer-mohit" target="blank"
-         className="btn text-primary bg-light fst-italic ms-3 px-5">Click here</a>
+         className="btn text-primary bg-light fst-italic ms-3">Click here</a>
         </h6>
         <p className="lh-lg fst-italic p-3 font-monospace">
        My name is Mohit kumar and i am a self taught developer. I am a <span className="fs-5 fw-bold px-2" style={{color:"purple"}}> MERN STACK </span> web developer. I learned HTML, CSS, Javascript,

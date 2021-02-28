@@ -45,7 +45,7 @@ function Home() {
   </button>
 </div> 
 <div className="home">
-    <h1 className="fw-bold">Hey ! I am a MERN Stack web developer</h1>
+    <h1 className="fw-bold text-center ">Hey ! I am a MERN Stack web developer</h1>
 <div>
 <NavLink exact to="/contact" className="btn btn-primary">Contact us</NavLink>
 </div>   
