@@ -16,7 +16,7 @@ function Header() {
         <NavLink exact to="/" className="nav-link" activeClassName="active">Home</NavLink>
         </li>
         <li className="nav-item px-5">
-        <NavLink exact to="/about" className="nav-link" activeClassName="active">About us</NavLink>
+        <NavLink exact to="/about" className="nav-link" activeClassName="active">About us/Projects</NavLink>
         </li>
         <li className="nav-item px-5">
         <NavLink exact to="/service" className="nav-link" activeClassName="active">Services</NavLink>
